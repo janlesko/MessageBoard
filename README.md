@@ -1,1 +1,1 @@
-# MessageBoard
+simple message board rails app
